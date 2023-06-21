@@ -1,5 +1,5 @@
 from copy import deepcopy as dp
-from ravn_poisk.main import sven
+from uniform_search.main import sven
 import math
 
 
